@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @platoputhur
-- 👀 I’m interested in all things python, cloud, cybersecurity
+- 👀 I’m interested in all things python, go, cloud, cybersecurity
 - 🌱 currently trying to get cloud & web application security related certifications
 - 💞️ looking to collaborate on fun python projects
 - 📫 reach me on twitter.com/platput
