@@ -28,6 +28,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)]()
 [![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)]()
 [![Couchbase](https://img.shields.io/badge/Couchbase-EA2328.svg?style=for-the-badge&logo=Couchbase&logoColor=white)]()
+[![Firestore](https://img.shields.io/badge/Firestore-FFCA28.svg?style=for-the-badge&logo=Firestore&logoColor=black)]()
 ![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1.svg?style=for-the-badge&logo=Apache-Cassandra&logoColor=white)
 
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424.svg?style=for-the-badge&logo=Auth0&logoColor=white)
@@ -40,6 +41,6 @@
 ![NGINX](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white)
 <!---
-platoputhur/platoputhur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+platput/platput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
