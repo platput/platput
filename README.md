@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @platput
-- 👀 I’m interested in all things python, go, cloud, cybersecurity
-- 🌱 currently trying to get cloud & web application security related certifications
-- 💞️ looking to collaborate on fun python projects
+- 👀 I’m interested in all things python, js, go, cloud, cybersecurity
+- 🌱 bootstrapping....
 - 📫 reach me on twitter.com/platput
 
 #### My stack contents
